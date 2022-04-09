@@ -1,0 +1,16 @@
+.linkweb {
+    display: link;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: right;
+}
+
+.box1 {
+    display: home;
+    box-shadow: 5px 5px 10px 10px rgba(255, 0, 0, 0.4);
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    background-color: lightgrey;
+    border: 10px solid black;
+}
